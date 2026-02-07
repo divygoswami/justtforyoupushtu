@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=“en”>
+<head>
+  <meta charset=“UTF-8”>
+  <title>Just For You 💗</title>
+  <link rel=“stylesheet” href=“style.css”>
+</head>
+<body>
+
+  <div class=“box”>
+    <h1>Ek aur baar soch lo 😔</h1>
+    <p>kyu aisa kar rahi ho?</p>
+
+    <div class=“buttons”>
+      <button id=“yes”>Yes 💖</button>
+      <button id=“no”>No 😐</button>
+    </div>
+  </div>
+
+  <script src=“script.js”></script>
+</body>
+</html>
